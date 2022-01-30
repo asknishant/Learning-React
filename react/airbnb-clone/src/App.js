@@ -5,12 +5,12 @@ import Card from './components/Card';
 
 import './App.css';
 import './styles.css'
+import Contact from './components/Contact';
 
 function App() {
   return (
     <div>
-      <NavBar />
-      <Card />
+      <Contact />
       
     </div>
   )
