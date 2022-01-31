@@ -1,2 +1,1 @@
-# airbnb-clone
-Learning react
+# React concepts
